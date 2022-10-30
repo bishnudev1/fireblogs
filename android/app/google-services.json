@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871638036369",
+    "project_id": "fireblogs-c7464",
+    "storage_bucket": "fireblogs-c7464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871638036369:android:c17c8675ed51574fc43430",
+        "android_client_info": {
+          "package_name": "com.example.fireblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871638036369-iqgn9le4j3b5lk3kfj8baabus5pnkpvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoNifHmJmel7GOvNzm_VKpSbcl-pVa_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871638036369-iqgn9le4j3b5lk3kfj8baabus5pnkpvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
