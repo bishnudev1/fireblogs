@@ -1,0 +1,15 @@
+{
+  "dart.flutterSdkPath": "~/fvm/versions/stable",
+  "dart.sdkPath": "~/fvm/versions/stable/bin/cache/dart-sdk",
+  "dart.lineLength": 110,
+  "cSpell.words": [
+    "chabad",
+    "DONT",
+    "dotenv",
+    "Kohen",
+    "Shabbos",
+    "Shliach",
+    "shluchim",
+    "yisrael"
+  ]
+}

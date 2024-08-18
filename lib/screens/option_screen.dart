@@ -11,7 +11,6 @@ class OptionScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        backwardsCompatibility: false,
         //centerTitle: true,
         actions: [
           IconButton(onPressed: () {}, icon: Icon(Icons.developer_board)),
@@ -48,8 +47,7 @@ class OptionScreen extends StatelessWidget {
             MyButton(
                 title: 'Register',
                 onpress: () {
-                  Navigator.of(context).push(MaterialPageRoute(
-                      builder: (context) => RegisterScreen()));
+                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => RegisterScreen()));
                 }),
             SizedBox(
               height: 15,
@@ -57,8 +55,7 @@ class OptionScreen extends StatelessWidget {
             MyButton(
                 title: 'Login',
                 onpress: () {
-                  Navigator.of(context).push(
-                      MaterialPageRoute(builder: (context) => LoginScreen()));
+                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => LoginScreen()));
                 }),
           ],
         ),
